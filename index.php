@@ -8,6 +8,7 @@
     <title>Hudson Mello</title>
     <link rel="stylesheet" href="assets/css/template.css">
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+
 </head>
 
 <body>
@@ -207,28 +208,31 @@
                             <p>Profissional Full Stack Developer, graduado em administração e pós em business intelligence.</p>
 
                             <ul>
-                                <li><a href="https://www.linkedin.com/in/hudson-mello-a7a935100"><img src="icone-linkedin.png" alt="LinkedIn"></a> &rarr; Me adiciona lá noLinkedIn</li>
-                                <li><a href="https://github.com/hudsonmello"><img src="icone-github.png" alt="GitHub"></a> &rarr; Acesse meus códigos no GitHub</li>
-                                <li><a href="https://www.instagram.com/ohudsonmello/"><img src="icone-instagram.png" alt="Instagram"></a> &rarr; Me siga no Instagram</li>
-                                <li><a href="https://www.facebook.com/HudsonMello03"><img src="icone-facebook.png" alt="Facebook"></a> &rarr; Me adicione no Facebook</li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/hudson-mello-a7a935100">
+                                        <img src="/assets/images/">
+                                    </a> LinkedIn
+                                </li>
+                                <li>
+                                    <a href="https://github.com/hudsonmello">
+                                        <img src="/assets/images/icone-github.png">
+                                    </a> GitHub
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/ohudsonmello/">
+                                        <img src="/assets/images/icone-instagram.png">
+                                    </a> Instagram
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/HudsonMello03">
+                                        <img src="/assets/images/icone-facebook.png">
+                                    </a> Facebook
+                                </li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="footer_area_item">
-                    <div class="widget">
-                        <div class="widget_title">
-                            <div class="widget_title_text">Últimos Posts</div>
-                            <div class="widget_title_bar"></div>
-                        </div>
-                        <div class="widget_body">
-                            <h2>E-mail</h2>
-                            <p>hudsonmello03@gmail.com</p>
-                            <h2>Telefone</h2>
-                            <p>(43) 99192-7450</p>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="footer_area_item">
                     <div class="widget">
                         <div class="widget_title">
@@ -243,19 +247,42 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="footer_area_item">
+                    <div class="widget">
+                        <div class="widget_title">
+                            <div class="widget_title_text">Parceiros</div>
+                            <div class="widget_title_bar"></div>
+                        </div>
+                        <div class="widget_body">
+                            <ul>
+
+                                <li>
+                                    <a href="https://github.com/hudsonmello">
+                                        <img src="/assets/images/icone-github.png">
+                                    </a> Ferroviário
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/ohudsonmello/">
+                                        <img src="/assets/images/icone-instagram.png">
+                                    </a> Head Blue Tech
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/HudsonMello03">
+                                        <img src="/assets/images/icone-facebook.png">
+                                    </a> CH Desenvolvimento Web
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div class="footer_copy">
-                Copyright - Todos os direitos reservados
+                <p> Copyright - Todos os direitos reservados &copy; &nbsp; &nbsp;
+                    Desenvolvido por Hudson da Silva Mello.</p>
             </div>
         </div>
-
-
-
-
-
-
-
     </footer>
 </body>
 

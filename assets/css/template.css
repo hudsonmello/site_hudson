@@ -206,6 +206,10 @@ nav .active a, nav a:hover {
     
 }
 
+.widget_body ul {
+    list-style: none;
+}
+
 .flex {
     display: flex;
     flex-wrap: wrap;
@@ -326,5 +330,5 @@ footer .widget_title_text {
     line-height: 40px;
     font-size: 12px;
     margin-top: 30px;
-
+    text-align: center;
 }
