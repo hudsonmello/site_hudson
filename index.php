@@ -170,7 +170,7 @@
                         <div class="widget_title_bar"></div>
                     </div>
                     <div class="widget_body">
-                        <form action="#" method="post">
+                        <form action="#" method="post" class="widget_body_form">
                             <label>Envie um e-mail para nós:</label>
                             <input type="email" name="email" placeholder="Digite seu e-mail">
                             <button type="submit" name="enviar">Enviar</button>
@@ -204,10 +204,16 @@
                             <div class="widget_title_bar"></div>
                         </div>
                         <div class="widget_body">
-                            <h2>E-mail</h2>
-                            <p>hudsonmello03@gmail.com</p>
-                            <h2>Telefone</h2>
-                            <p>(43) 99192-7450</p>
+                            <p>Profissional Full Stack Developer, graduado em administração e pós em business intelligence.</p>
+                            <!-- <address>
+                                Rua Ieda Pesarini Ferreira, 130 ap 1621 - Londrina-PR
+                                Telefone: (43) 99192-7450
+                                E-mail: hudsonmello03@gmail.com
+                            </address> -->
+                        <a href="">Instagram</a>
+                        <a href="">Facebook</a>
+                        <a href="">LinkedIn</a>
+                        <a href="">GitHub</a>
                         </div>
                     </div>
                 </div>
