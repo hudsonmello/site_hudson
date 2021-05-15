@@ -145,3 +145,52 @@ nav .active a, nav a:hover {
     display: flex;
     justify-content: center;
 }
+
+.geral section {
+    flex: 2;
+}
+
+.geral aside {
+    flex: 1;
+}
+
+.widget_title {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.widget_title_text {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.widget_title_bar {
+    width: 50px;
+    height: 3px;
+    background-color: black;
+    margin-top: 10px;
+}
+
+.widget_beneficios {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.widget_title_box {
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    /* border: 2px solid black; */
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.widget_body h2 {
+    font-size: 15px;
+}
+
+.widget_body p {
+    font-size: 15px;
+}
