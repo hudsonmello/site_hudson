@@ -205,11 +205,13 @@
                         </div>
                         <div class="widget_body">
                             <p>Profissional Full Stack Developer, graduado em administração e pós em business intelligence.</p>
-                            
-                        <a href="">Instagram</a>
-                        <a href="">Facebook</a>
-                        <a href="">LinkedIn</a>
-                        <a href="">GitHub</a>
+
+                            <ul>
+                                <li><a href="https://www.linkedin.com/in/hudson-mello-a7a935100"><img src="icone-linkedin.png" alt="LinkedIn"></a> &rarr; Me adiciona lá noLinkedIn</li>
+                                <li><a href="https://github.com/hudsonmello"><img src="icone-github.png" alt="GitHub"></a> &rarr; Acesse meus códigos no GitHub</li>
+                                <li><a href="https://www.instagram.com/ohudsonmello/"><img src="icone-instagram.png" alt="Instagram"></a> &rarr; Me siga no Instagram</li>
+                                <li><a href="https://www.facebook.com/HudsonMello03"><img src="icone-facebook.png" alt="Facebook"></a> &rarr; Me adicione no Facebook</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
