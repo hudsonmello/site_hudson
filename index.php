@@ -70,8 +70,78 @@
                         </div>
                         <div class="widget_title_bar"></div>
                     </div>
-                    <div class="widget_body">
-                        Conteudo benefícios
+                    <div class="widget_body flex">
+                        <article>
+                            <a href="#">
+                                <div class="news_thumbnail">
+                                    <img src="/assets/images/news.jpg" alt="inovação">
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit amat velum
+                                </div>
+                                <div class="news_resume">
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia laudantium corrupti laboriosam non temporibus, odio similique consectetur velit ad error maiores dolorem iusto reprehenderit, itaque dolorum eum natus eos doloribus.</p>
+                                </div>
+                                <div class="news_data">
+                                    <div class="news_posted_at">15 MAI 2021</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                            </a>
+                        </article>
+
+                        <article>
+                            <a href="#">
+                                <div class="news_thumbnail">
+                                    <img src="/assets/images/news.jpg" alt="inovação">
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit amat velum
+                                </div>
+                                <div class="news_resume">
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia laudantium corrupti laboriosam non temporibus, odio similique consectetur velit ad error maiores dolorem iusto reprehenderit, itaque dolorum eum natus eos doloribus.</p>
+                                </div>
+                                <div class="news_data">
+                                    <div class="news_posted_at">15 MAI 2021</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                            </a>
+                        </article>
+
+                        <article>
+                            <a href="#">
+                                <div class="news_thumbnail">
+                                    <img src="/assets/images/news.jpg" alt="inovação">
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit amat velum
+                                </div>
+                                <div class="news_resume">
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia laudantium corrupti laboriosam non temporibus, odio similique consectetur velit ad error maiores dolorem iusto reprehenderit, itaque dolorum eum natus eos doloribus.</p>
+                                </div>
+                                <div class="news_data">
+                                    <div class="news_posted_at">15 MAI 2021</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                            </a>
+                        </article>
+
+                        <article>
+                            <a href="#">
+                                <div class="news_thumbnail">
+                                    <img src="/assets/images/news.jpg" alt="inovação">
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit amat velum
+                                </div>
+                                <div class="news_resume">
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia laudantium corrupti laboriosam non temporibus, odio similique consectetur velit ad error maiores dolorem iusto reprehenderit, itaque dolorum eum natus eos doloribus.</p>
+                                </div>
+                                <div class="news_data">
+                                    <div class="news_posted_at">15 MAI 2021</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                            </a>
+                        </article>
                     </div>
                 </div>
             </section>
@@ -83,15 +153,15 @@
                         <div class="widget_title_bar"></div>
                     </div>
                     <div class="widget_beneficios">
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
-                            <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
+                        <div class="widget_title_box"></div>
                     </div>
                 </div>
                 <div class="widget">
@@ -100,16 +170,89 @@
                         <div class="widget_title_bar"></div>
                     </div>
                     <div class="widget_body">
-                        <h2>E-mail</h2>
-                        <p>hudsonmello03@gmail.com</p>
-                        <h2>Telefone</h2>
-                        <p>(43) 99192-7450</p>    
+                        <form action="#" method="post">
+                            <label>Envie um e-mail para nós:</label>
+                            <input type="email" name="email" placeholder="Digite seu e-mail">
+                            <button type="submit" name="enviar">Enviar</button>
+                        </form>
                     </div>
                 </div>
 
             </aside>
         </div>
     </section>
+    <footer>
+        <div class="container flexColumn">
+
+            <div class="footer_menu">
+                <div class="fm_1">
+                    <a href="">Sites e Landing Pages</a>
+                </div>
+                <div class="fm_2">
+                    <a href="">Sistemas web</a>
+                </div>
+                <div class="fm_3">
+                    <a href="">Consultoria de Neg�cios</a>
+                </div>
+            </div>
+
+            <div class="footer_area">
+                <div class="footer_area_item">
+                    <div class="widget">
+                        <div class="widget_title">
+                            <div class="widget_title_text">Hudson Mello</div>
+                            <div class="widget_title_bar"></div>
+                        </div>
+                        <div class="widget_body">
+                            <h2>E-mail</h2>
+                            <p>hudsonmello03@gmail.com</p>
+                            <h2>Telefone</h2>
+                            <p>(43) 99192-7450</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer_area_item">
+                    <div class="widget">
+                        <div class="widget_title">
+                            <div class="widget_title_text">Últimos Posts</div>
+                            <div class="widget_title_bar"></div>
+                        </div>
+                        <div class="widget_body">
+                            <h2>E-mail</h2>
+                            <p>hudsonmello03@gmail.com</p>
+                            <h2>Telefone</h2>
+                            <p>(43) 99192-7450</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer_area_item">
+                    <div class="widget">
+                        <div class="widget_title">
+                            <div class="widget_title_text">Contato</div>
+                            <div class="widget_title_bar"></div>
+                        </div>
+                        <div class="widget_body">
+                            <h2>E-mail</h2>
+                            <p>hudsonmello03@gmail.com</p>
+                            <h2>Telefone</h2>
+                            <p>(43) 99192-7450</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer_copy">
+                Copyright - Todos os direitos reservados
+            </div>
+        </div>
+
+
+
+
+
+
+
+    </footer>
 </body>
 
 </html>
