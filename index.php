@@ -205,11 +205,7 @@
                         </div>
                         <div class="widget_body">
                             <p>Profissional Full Stack Developer, graduado em administração e pós em business intelligence.</p>
-                            <!-- <address>
-                                Rua Ieda Pesarini Ferreira, 130 ap 1621 - Londrina-PR
-                                Telefone: (43) 99192-7450
-                                E-mail: hudsonmello03@gmail.com
-                            </address> -->
+                            
                         <a href="">Instagram</a>
                         <a href="">Facebook</a>
                         <a href="">LinkedIn</a>
